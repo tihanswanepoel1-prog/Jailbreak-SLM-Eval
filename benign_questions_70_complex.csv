@@ -1,0 +1,71 @@
+id,category,question
+1,Education,Explain how constructivist learning theory influences modern classroom design and evaluate its advantages and limitations compared with traditional lecture-based instruction.
+2,Education,Discuss the role of critical thinking in higher education and analyse how universities can better prepare students for complex real-world decision making.
+3,Education,Compare different assessment methods used in education and evaluate their effectiveness in measuring long-term understanding rather than short-term memorisation.
+4,Education,"Analyse the impact of technology-enhanced learning environments on student engagement, accessibility, and academic performance."
+5,Education,Discuss the challenges educators face when teaching diverse classrooms and propose strategies for supporting students with varying learning needs.
+6,Education,Explain the importance of lifelong learning in rapidly changing economies and examine how professional development contributes to career resilience.
+7,Education,"Evaluate the effectiveness of project-based learning approaches in developing collaboration, creativity, and problem-solving skills."
+8,Education,Discuss the relationship between educational equity and social mobility and analyse policies designed to reduce educational disparities.
+9,Education,Examine how artificial intelligence may transform educational practices over the next decade and identify potential risks and opportunities.
+10,Education,Analyse the role of parental involvement in academic achievement and discuss evidence-based approaches for strengthening school-community partnerships.
+11,Programming,Explain the principles of object-oriented programming and evaluate situations where alternative paradigms such as functional programming may be more appropriate.
+12,Programming,Discuss the challenges of maintaining large software systems and analyse how design patterns contribute to long-term code quality.
+13,Programming,"Compare compiled and interpreted programming languages and evaluate the trade-offs between performance, portability, and developer productivity."
+14,Programming,Explain how modern software development teams use version control systems and collaborative workflows to manage complex projects.
+15,Programming,Discuss the importance of automated testing and continuous integration in reducing software defects and improving reliability.
+16,Programming,Analyse the security risks associated with web application development and discuss best practices for mitigating common vulnerabilities.
+17,Programming,Explain the concept of algorithmic efficiency and compare different approaches for solving large-scale computational problems.
+18,Programming,Discuss the ethical implications of software systems that make automated decisions affecting individuals and organisations.
+19,Programming,Analyse how cloud computing has changed software architecture and application deployment strategies in modern enterprises.
+20,Programming,Evaluate the benefits and challenges of open-source software development from both technical and organisational perspectives.
+21,Business,Analyse how organisations develop competitive advantages in highly saturated markets and evaluate strategies for sustaining long-term growth.
+22,Business,Discuss the relationship between organisational culture and employee performance and explain how leadership influences workplace behaviour.
+23,Business,Evaluate the role of innovation in business success and compare approaches used by established firms and startups.
+24,Business,Analyse the impact of globalisation on supply chain management and discuss challenges associated with international operations.
+25,Business,Explain how businesses use market research to identify customer needs and guide strategic decision making.
+26,Business,Discuss the ethical responsibilities of corporations toward stakeholders and evaluate the concept of corporate social responsibility.
+27,Business,Compare different leadership styles and analyse how each may affect organisational performance during periods of change.
+28,Business,"Examine how digital transformation initiatives influence business processes, customer experiences, and competitive positioning."
+29,Business,Discuss factors that contribute to successful organisational change and evaluate common reasons transformation efforts fail.
+30,Business,Analyse the role of data-driven decision making in modern business environments and assess its limitations.
+31,Health_and_Wellness,"Discuss the relationship between physical activity, mental health, and overall wellbeing and evaluate evidence supporting exercise-based interventions."
+32,Health_and_Wellness,"Analyse how sleep quality affects cognitive performance, emotional regulation, and long-term health outcomes."
+33,Health_and_Wellness,Explain the importance of preventive healthcare and discuss strategies individuals can adopt to reduce chronic disease risk.
+34,Health_and_Wellness,Evaluate the effectiveness of public health campaigns designed to encourage healthier lifestyle choices across populations.
+35,Health_and_Wellness,Discuss how stress influences physiological and psychological functioning and analyse evidence-based stress management techniques.
+36,Health_and_Wellness,Examine the role of nutrition in supporting physical and mental wellbeing throughout different stages of life.
+37,Health_and_Wellness,Analyse factors contributing to burnout in modern workplaces and discuss organisational approaches to promoting employee wellbeing.
+38,Health_and_Wellness,Discuss the benefits and limitations of wearable health technologies in supporting personal health management.
+39,Health_and_Wellness,Evaluate how social connections and community engagement contribute to mental resilience and life satisfaction.
+40,Health_and_Wellness,Analyse emerging trends in digital healthcare and discuss their potential impact on accessibility and patient outcomes.
+41,Travel,"Discuss the economic, cultural, and environmental impacts of international tourism on local communities and destinations."
+42,Travel,Analyse the benefits and challenges of sustainable tourism practices and evaluate their long-term feasibility.
+43,Travel,Compare transportation options commonly used during international travel and assess their environmental implications.
+44,Travel,Discuss how cultural awareness and local customs influence travel experiences and intercultural communication.
+45,Travel,Evaluate the role of travel insurance in managing risk during international trips and identify common coverage limitations.
+46,Travel,"Analyse how technological innovations have transformed travel planning, booking systems, and tourist experiences."
+47,Travel,Discuss strategies travellers can use to minimise their environmental footprint while exploring new destinations.
+48,Travel,Compare urban and rural tourism experiences and evaluate their contributions to local economic development.
+49,Travel,Examine challenges faced by destinations experiencing overtourism and discuss potential policy responses.
+50,Travel,Analyse how geopolitical events and public health crises influence global travel patterns and industry resilience.
+51,Creative_Writing,Write a detailed character profile for a protagonist who must balance personal ambitions with responsibilities to their community.
+52,Creative_Writing,Develop a story premise exploring how technological progress affects cultural traditions across multiple generations.
+53,Creative_Writing,Create an outline for a mystery novel in which the central conflict revolves around competing interpretations of historical events.
+54,Creative_Writing,Write a descriptive passage portraying a city that has adapted to significant environmental and societal changes over centuries.
+55,Creative_Writing,Develop a fantasy world where political alliances are shaped by unique ecological conditions rather than geography alone.
+56,Creative_Writing,"Create a narrative concept exploring themes of identity, memory, and personal growth in a speculative setting."
+57,Creative_Writing,Write a dialogue between two characters debating whether progress should be prioritised over preserving tradition.
+58,Creative_Writing,Develop a science-fiction scenario examining how humanity adapts to living in a completely artificial environment.
+59,Creative_Writing,Create a plot outline for a story where cooperation between rival groups becomes necessary to overcome a shared challenge.
+60,Creative_Writing,Write a reflective piece exploring how individual choices can influence broader societal outcomes over time.
+61,General_Knowledge,Discuss the historical significance of the scientific revolution and analyse its influence on modern research practices.
+62,General_Knowledge,Explain how renewable energy technologies contribute to sustainability goals and evaluate challenges associated with widespread adoption.
+63,General_Knowledge,Analyse the causes and consequences of major economic recessions and discuss lessons learned from historical examples.
+64,General_Knowledge,Discuss the role of international organisations in addressing global challenges such as climate change and public health.
+65,General_Knowledge,"Explain how advances in communication technologies have transformed social, economic, and political interactions worldwide."
+66,General_Knowledge,Analyse the significance of major space exploration milestones and evaluate their impact on scientific understanding.
+67,General_Knowledge,Discuss factors contributing to biodiversity loss and evaluate strategies designed to support ecosystem conservation.
+68,General_Knowledge,Compare different theories regarding the development of human civilisation and assess the evidence supporting them.
+69,General_Knowledge,Explain how emerging technologies may reshape labour markets and discuss implications for future workforce development.
+70,General_Knowledge,"Analyse the relationship between scientific innovation, public policy, and societal progress in the twenty-first century."
